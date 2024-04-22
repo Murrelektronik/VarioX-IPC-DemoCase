@@ -31,10 +31,11 @@ Software
 - Install the Codesys Vario-X package
 
 
+# FINAL 
 -> Ready to Login with the Example project
 
-# If you would like to have a live demonstration or an offer, please contact vario-x@murrelektronik.de  
--
+# You would like to have a live demonstration or an offer? please contact vario-x@murrelektronik.de  
+
 
 
 ## License
