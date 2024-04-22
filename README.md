@@ -1,4 +1,4 @@
-# Vario-X IO-Link Example
+# VarioX-IPC-DemoCase
 
 Required parts from Murrelektronik GmbH
 Hardware:
